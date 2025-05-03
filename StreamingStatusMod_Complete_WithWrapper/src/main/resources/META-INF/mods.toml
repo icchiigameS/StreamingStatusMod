@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="streamingstatusmod"
+version="1.0"
+displayName="Streaming Status Mod"
+description='''
+Shows [配信中] on name tag when user is live streaming.
+'''
